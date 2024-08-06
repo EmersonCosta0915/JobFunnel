@@ -34,7 +34,7 @@ setup(
     description=description,
     long_description=readme,
     long_description_content_type='text/markdown',
-    author='Paul McInnis, Bradley Kohler, Jose Alarcon, Erich Mengore, '
+    author=' Bradley Kohler, Jose Alarcon, Erich Mengore, '
     'Mark van der Broek',
     author_email='paulmcinnis99@gmail.com',
     url=url,
